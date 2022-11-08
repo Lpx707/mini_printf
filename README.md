@@ -5,8 +5,7 @@ mini_printf is a first step to achieve the project my_printf. You will need to i
 not manage any text formating and buffering.
 You should not push your main function as we are going to compile using **gcc *.c**.
 
-CTRL C + CTRL V = TRICHE
-TRICHE = -42
+CTRL C + CTRL V = TRICHE DONC -42 !
 
 Code à la norme EPITECH 2022
 
